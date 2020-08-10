@@ -6,8 +6,7 @@ To follow accessibility standards, the code has ben refactored to include accesi
 
 I was unable to properly deploy my repository to Github pages and see the below when navigating to the repository's url in my browser: 
 
-![Screenshot of deployed repo]
-(./deployed.png)
+![Screenshot of deployed repo](./deployed.png)
 ​
 ## License
 ​
