@@ -4,9 +4,15 @@ This is a codebased that follows accessibility standards to optimize the Horiseo
 
 To follow accessibility standards, the code has ben refactored to include accesible alt attributes for image elements, semantic HTML5 elements, and consildated CSS. 
 
-I was unable to properly deploy my repository to Github pages and see the below when navigating to the repository's url in my browser: 
+## Live URL Issue
 
-![Screenshot of deployed repo](./deployed.png)
+I attempted to publish my site to GitHub Pages by going to the settings in my repository and received this message:
+
+![screenshot of live URL](README/liveURL.png)
+
+I feel like there is a step I am missing in the command line, because when I attempt to navigate to the URL I see the below: 
+
+![Screenshot of deployed repo](README/deployed.png)
 ​
 ## License
 ​
