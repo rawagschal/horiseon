@@ -1,3 +1,4 @@
+/* full page style start */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,6 +9,22 @@ body {
     background-color: #d9dcd6;
     font-size: 16px;
 }
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+/* full page style end*/
 
 /* header style start */
 header {
@@ -42,13 +59,9 @@ nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
+/* header style end */
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-/* start hero image style*/
+/* hero style start */
 .hero img{
     height: 100%;
     width: 100%;
@@ -56,17 +69,7 @@ a {
     background-size: cover;
     background-position: center;
 }
-/* end hero image style */
-
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
+/* hero style end */
 
 /* content section style start */
 .content {
@@ -92,7 +95,7 @@ article h2 {
     margin-bottom: 20px ;
     font-size: 36px ;
 }
-/* end content section style */
+/* content section style end */
 
 /* benefits aside style start */
 .benefits {
@@ -123,6 +126,7 @@ article h2 {
 }
 /* benefits aside style end */
 
+/*footer style start */
 .footer {
     padding: 30px;
     clear: both;
@@ -133,3 +137,4 @@ article h2 {
 .footer h2 {
     font-size: 20px;
 }
+/* footer style end */
