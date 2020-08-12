@@ -6,13 +6,7 @@ To follow accessibility standards, the code has ben refactored to include accesi
 
 ## Live URL Issue
 
-I attempted to publish my site to GitHub Pages by going to the settings in my repository and received this message:
-
-![screenshot of live URL](README/liveURL.png)
-
-I feel like there is a step I am missing in the command line, because when I attempt to navigate to the URL I see the below: 
-
-![Screenshot of deployed repo](README/deployed.png)
+I deleted some necessary hidden files and had to re-clone my source code for this project. After doing so, with the help of a nice tutor named Clint, I was able to replace the files in my repo with the working directory that included all necessary hidden files using the finder GUI. If you know what I mean and I said it wrong, let me know. But I figured it out, and now my GitHub Pages for this project works :) 
 ​
 ## License
 ​
